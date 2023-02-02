@@ -3,7 +3,7 @@ University of Birmingham LaTeX beamer template
 
 Unofficial LaTeX beamer style for outstanding and professional presentations.
 
-Colours and proportions try to follow as much as possible the [**University slide catalogue**](https://intranet.birmingham.ac.uk/staff/documents/public/brand/generic-master-template-16-9-white.pptx)
+Colours and proportions are based or inspired on the [**University slide catalogue**](https://intranet.birmingham.ac.uk/staff/documents/public/brand/generic-master-template-16-9-white.pptx)
 
 ## Example
 
